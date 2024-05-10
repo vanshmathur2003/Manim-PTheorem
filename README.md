@@ -1,2 +1,1 @@
 # Manim-PTheorem
-# Manim-PTheorem
